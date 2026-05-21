@@ -1,2 +1,2 @@
 # lucachiarenza.github.io
-Senior Developer &amp; Analyst
+Senior Software Developer &amp; Analyst
