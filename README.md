@@ -1,4 +1,6 @@
-# Senior Software Developer &amp; Analyst, Full Stack Developer, .NET Architect
+# Senior Software Developer &amp; Analyst
+# Full Stack Developer
+# .NET Architect
 
 Nel corso della mia carriera ho maturato oltre 26 anni di esperienza nella progettazione, analisi e sviluppo di soluzioni software desktop e web, operando prevalentemente in contesti enterprise ad alta complessità e in ambito di software gestionali, ho ricoperto il ruolo di Senior Software Developer & Analyst, unendo allo sviluppo tecnico il coordinamento di team di sviluppo e la gestione del supporto tecnico di secondo livello.
 
